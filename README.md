@@ -10,8 +10,10 @@
 
 ## Установка
 **Клонируйте репозиторий и перейдите в каталог проекта:**
-    git clone https://github.com/Pynajy/voice_to_text.git
-    cd voice_to_text
+```
+git clone https://github.com/Pynajy/voice_to_text.git
+cd voice_to_text
+```
 
 #### Из папки
 **1. Создайте виртуальную среду:**
